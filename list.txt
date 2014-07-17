@@ -1,0 +1,3144 @@
+00c0  add al,al
+02c0  add al,al
+
+00c1  add cl,al
+02c8  add cl,al
+
+00c2  add dl,al
+02d0  add dl,al
+
+00c3  add bl,al
+02d8  add bl,al
+
+00c4  add ah,al
+02e0  add ah,al
+
+00c5  add ch,al
+02e8  add ch,al
+
+00c6  add dh,al
+02f0  add dh,al
+
+00c7  add bh,al
+02f8  add bh,al
+
+00c8  add al,cl
+02c1  add al,cl
+
+00c9  add cl,cl
+02c9  add cl,cl
+
+00ca  add dl,cl
+02d1  add dl,cl
+
+00cb  add bl,cl
+02d9  add bl,cl
+
+00cc  add ah,cl
+02e1  add ah,cl
+
+00cd  add ch,cl
+02e9  add ch,cl
+
+00ce  add dh,cl
+02f1  add dh,cl
+
+00cf  add bh,cl
+02f9  add bh,cl
+
+00d0  add al,dl
+02c2  add al,dl
+
+00d1  add cl,dl
+02ca  add cl,dl
+
+00d2  add dl,dl
+02d2  add dl,dl
+
+00d3  add bl,dl
+02da  add bl,dl
+
+00d4  add ah,dl
+02e2  add ah,dl
+
+00d5  add ch,dl
+02ea  add ch,dl
+
+00d6  add dh,dl
+02f2  add dh,dl
+
+00d7  add bh,dl
+02fa  add bh,dl
+
+00d8  add al,bl
+02c3  add al,bl
+
+00d9  add cl,bl
+02cb  add cl,bl
+
+00da  add dl,bl
+02d3  add dl,bl
+
+00db  add bl,bl
+02db  add bl,bl
+
+00dc  add ah,bl
+02e3  add ah,bl
+
+00dd  add ch,bl
+02eb  add ch,bl
+
+00de  add dh,bl
+02f3  add dh,bl
+
+00df  add bh,bl
+02fb  add bh,bl
+
+00e0  add al,ah
+02c4  add al,ah
+
+00e1  add cl,ah
+02cc  add cl,ah
+
+00e2  add dl,ah
+02d4  add dl,ah
+
+00e3  add bl,ah
+02dc  add bl,ah
+
+00e4  add ah,ah
+02e4  add ah,ah
+
+00e5  add ch,ah
+02ec  add ch,ah
+
+00e6  add dh,ah
+02f4  add dh,ah
+
+00e7  add bh,ah
+02fc  add bh,ah
+
+00e8  add al,ch
+02c5  add al,ch
+
+00e9  add cl,ch
+02cd  add cl,ch
+
+00ea  add dl,ch
+02d5  add dl,ch
+
+00eb  add bl,ch
+02dd  add bl,ch
+
+00ec  add ah,ch
+02e5  add ah,ch
+
+00ed  add ch,ch
+02ed  add ch,ch
+
+00ee  add dh,ch
+02f5  add dh,ch
+
+00ef  add bh,ch
+02fd  add bh,ch
+
+00f0  add al,dh
+02c6  add al,dh
+
+00f1  add cl,dh
+02ce  add cl,dh
+
+00f2  add dl,dh
+02d6  add dl,dh
+
+00f3  add bl,dh
+02de  add bl,dh
+
+00f4  add ah,dh
+02e6  add ah,dh
+
+00f5  add ch,dh
+02ee  add ch,dh
+
+00f6  add dh,dh
+02f6  add dh,dh
+
+00f7  add bh,dh
+02fe  add bh,dh
+
+00f8  add al,bh
+02c7  add al,bh
+
+00f9  add cl,bh
+02cf  add cl,bh
+
+00fa  add dl,bh
+02d7  add dl,bh
+
+00fb  add bl,bh
+02df  add bl,bh
+
+00fc  add ah,bh
+02e7  add ah,bh
+
+00fd  add ch,bh
+02ef  add ch,bh
+
+00fe  add dh,bh
+02f7  add dh,bh
+
+00ff  add bh,bh
+02ff  add bh,bh
+
+01c0  add eax,eax
+03c0  add eax,eax
+
+01c1  add ecx,eax
+03c8  add ecx,eax
+
+01c2  add edx,eax
+03d0  add edx,eax
+
+01c3  add ebx,eax
+03d8  add ebx,eax
+
+01c4  add esp,eax
+03e0  add esp,eax
+
+01c5  add ebp,eax
+03e8  add ebp,eax
+
+01c6  add esi,eax
+03f0  add esi,eax
+
+01c7  add edi,eax
+03f8  add edi,eax
+
+01c8  add eax,ecx
+03c1  add eax,ecx
+
+01c9  add ecx,ecx
+03c9  add ecx,ecx
+
+01ca  add edx,ecx
+03d1  add edx,ecx
+
+01cb  add ebx,ecx
+03d9  add ebx,ecx
+
+01cc  add esp,ecx
+03e1  add esp,ecx
+
+01cd  add ebp,ecx
+03e9  add ebp,ecx
+
+01ce  add esi,ecx
+03f1  add esi,ecx
+
+01cf  add edi,ecx
+03f9  add edi,ecx
+
+01d0  add eax,edx
+03c2  add eax,edx
+
+01d1  add ecx,edx
+03ca  add ecx,edx
+
+01d2  add edx,edx
+03d2  add edx,edx
+
+01d3  add ebx,edx
+03da  add ebx,edx
+
+01d4  add esp,edx
+03e2  add esp,edx
+
+01d5  add ebp,edx
+03ea  add ebp,edx
+
+01d6  add esi,edx
+03f2  add esi,edx
+
+01d7  add edi,edx
+03fa  add edi,edx
+
+01d8  add eax,ebx
+03c3  add eax,ebx
+
+01d9  add ecx,ebx
+03cb  add ecx,ebx
+
+01da  add edx,ebx
+03d3  add edx,ebx
+
+01db  add ebx,ebx
+03db  add ebx,ebx
+
+01dc  add esp,ebx
+03e3  add esp,ebx
+
+01dd  add ebp,ebx
+03eb  add ebp,ebx
+
+01de  add esi,ebx
+03f3  add esi,ebx
+
+01df  add edi,ebx
+03fb  add edi,ebx
+
+01e0  add eax,esp
+03c4  add eax,esp
+
+01e1  add ecx,esp
+03cc  add ecx,esp
+
+01e2  add edx,esp
+03d4  add edx,esp
+
+01e3  add ebx,esp
+03dc  add ebx,esp
+
+01e4  add esp,esp
+03e4  add esp,esp
+
+01e5  add ebp,esp
+03ec  add ebp,esp
+
+01e6  add esi,esp
+03f4  add esi,esp
+
+01e7  add edi,esp
+03fc  add edi,esp
+
+01e8  add eax,ebp
+03c5  add eax,ebp
+
+01e9  add ecx,ebp
+03cd  add ecx,ebp
+
+01ea  add edx,ebp
+03d5  add edx,ebp
+
+01eb  add ebx,ebp
+03dd  add ebx,ebp
+
+01ec  add esp,ebp
+03e5  add esp,ebp
+
+01ed  add ebp,ebp
+03ed  add ebp,ebp
+
+01ee  add esi,ebp
+03f5  add esi,ebp
+
+01ef  add edi,ebp
+03fd  add edi,ebp
+
+01f0  add eax,esi
+03c6  add eax,esi
+
+01f1  add ecx,esi
+03ce  add ecx,esi
+
+01f2  add edx,esi
+03d6  add edx,esi
+
+01f3  add ebx,esi
+03de  add ebx,esi
+
+01f4  add esp,esi
+03e6  add esp,esi
+
+01f5  add ebp,esi
+03ee  add ebp,esi
+
+01f6  add esi,esi
+03f6  add esi,esi
+
+01f7  add edi,esi
+03fe  add edi,esi
+
+01f8  add eax,edi
+03c7  add eax,edi
+
+01f9  add ecx,edi
+03cf  add ecx,edi
+
+01fa  add edx,edi
+03d7  add edx,edi
+
+01fb  add ebx,edi
+03df  add ebx,edi
+
+01fc  add esp,edi
+03e7  add esp,edi
+
+01fd  add ebp,edi
+03ef  add ebp,edi
+
+01fe  add esi,edi
+03f7  add esi,edi
+
+01ff  add edi,edi
+03ff  add edi,edi
+
+04ba  add al,0xba
+80c0  add al,0xba
+
+04ba  add al,0xba
+82c0  add al,0xba
+
+08c0  or al,al
+0ac0  or al,al
+
+08c1  or cl,al
+0ac8  or cl,al
+
+08c2  or dl,al
+0ad0  or dl,al
+
+08c3  or bl,al
+0ad8  or bl,al
+
+08c4  or ah,al
+0ae0  or ah,al
+
+08c5  or ch,al
+0ae8  or ch,al
+
+08c6  or dh,al
+0af0  or dh,al
+
+08c7  or bh,al
+0af8  or bh,al
+
+08c8  or al,cl
+0ac1  or al,cl
+
+08c9  or cl,cl
+0ac9  or cl,cl
+
+08ca  or dl,cl
+0ad1  or dl,cl
+
+08cb  or bl,cl
+0ad9  or bl,cl
+
+08cc  or ah,cl
+0ae1  or ah,cl
+
+08cd  or ch,cl
+0ae9  or ch,cl
+
+08ce  or dh,cl
+0af1  or dh,cl
+
+08cf  or bh,cl
+0af9  or bh,cl
+
+08d0  or al,dl
+0ac2  or al,dl
+
+08d1  or cl,dl
+0aca  or cl,dl
+
+08d2  or dl,dl
+0ad2  or dl,dl
+
+08d3  or bl,dl
+0ada  or bl,dl
+
+08d4  or ah,dl
+0ae2  or ah,dl
+
+08d5  or ch,dl
+0aea  or ch,dl
+
+08d6  or dh,dl
+0af2  or dh,dl
+
+08d7  or bh,dl
+0afa  or bh,dl
+
+08d8  or al,bl
+0ac3  or al,bl
+
+08d9  or cl,bl
+0acb  or cl,bl
+
+08da  or dl,bl
+0ad3  or dl,bl
+
+08db  or bl,bl
+0adb  or bl,bl
+
+08dc  or ah,bl
+0ae3  or ah,bl
+
+08dd  or ch,bl
+0aeb  or ch,bl
+
+08de  or dh,bl
+0af3  or dh,bl
+
+08df  or bh,bl
+0afb  or bh,bl
+
+08e0  or al,ah
+0ac4  or al,ah
+
+08e1  or cl,ah
+0acc  or cl,ah
+
+08e2  or dl,ah
+0ad4  or dl,ah
+
+08e3  or bl,ah
+0adc  or bl,ah
+
+08e4  or ah,ah
+0ae4  or ah,ah
+
+08e5  or ch,ah
+0aec  or ch,ah
+
+08e6  or dh,ah
+0af4  or dh,ah
+
+08e7  or bh,ah
+0afc  or bh,ah
+
+08e8  or al,ch
+0ac5  or al,ch
+
+08e9  or cl,ch
+0acd  or cl,ch
+
+08ea  or dl,ch
+0ad5  or dl,ch
+
+08eb  or bl,ch
+0add  or bl,ch
+
+08ec  or ah,ch
+0ae5  or ah,ch
+
+08ed  or ch,ch
+0aed  or ch,ch
+
+08ee  or dh,ch
+0af5  or dh,ch
+
+08ef  or bh,ch
+0afd  or bh,ch
+
+08f0  or al,dh
+0ac6  or al,dh
+
+08f1  or cl,dh
+0ace  or cl,dh
+
+08f2  or dl,dh
+0ad6  or dl,dh
+
+08f3  or bl,dh
+0ade  or bl,dh
+
+08f4  or ah,dh
+0ae6  or ah,dh
+
+08f5  or ch,dh
+0aee  or ch,dh
+
+08f6  or dh,dh
+0af6  or dh,dh
+
+08f7  or bh,dh
+0afe  or bh,dh
+
+08f8  or al,bh
+0ac7  or al,bh
+
+08f9  or cl,bh
+0acf  or cl,bh
+
+08fa  or dl,bh
+0ad7  or dl,bh
+
+08fb  or bl,bh
+0adf  or bl,bh
+
+08fc  or ah,bh
+0ae7  or ah,bh
+
+08fd  or ch,bh
+0aef  or ch,bh
+
+08fe  or dh,bh
+0af7  or dh,bh
+
+08ff  or bh,bh
+0aff  or bh,bh
+
+09c0  or eax,eax
+0bc0  or eax,eax
+
+09c1  or ecx,eax
+0bc8  or ecx,eax
+
+09c2  or edx,eax
+0bd0  or edx,eax
+
+09c3  or ebx,eax
+0bd8  or ebx,eax
+
+09c4  or esp,eax
+0be0  or esp,eax
+
+09c5  or ebp,eax
+0be8  or ebp,eax
+
+09c6  or esi,eax
+0bf0  or esi,eax
+
+09c7  or edi,eax
+0bf8  or edi,eax
+
+09c8  or eax,ecx
+0bc1  or eax,ecx
+
+09c9  or ecx,ecx
+0bc9  or ecx,ecx
+
+09ca  or edx,ecx
+0bd1  or edx,ecx
+
+09cb  or ebx,ecx
+0bd9  or ebx,ecx
+
+09cc  or esp,ecx
+0be1  or esp,ecx
+
+09cd  or ebp,ecx
+0be9  or ebp,ecx
+
+09ce  or esi,ecx
+0bf1  or esi,ecx
+
+09cf  or edi,ecx
+0bf9  or edi,ecx
+
+09d0  or eax,edx
+0bc2  or eax,edx
+
+09d1  or ecx,edx
+0bca  or ecx,edx
+
+09d2  or edx,edx
+0bd2  or edx,edx
+
+09d3  or ebx,edx
+0bda  or ebx,edx
+
+09d4  or esp,edx
+0be2  or esp,edx
+
+09d5  or ebp,edx
+0bea  or ebp,edx
+
+09d6  or esi,edx
+0bf2  or esi,edx
+
+09d7  or edi,edx
+0bfa  or edi,edx
+
+09d8  or eax,ebx
+0bc3  or eax,ebx
+
+09d9  or ecx,ebx
+0bcb  or ecx,ebx
+
+09da  or edx,ebx
+0bd3  or edx,ebx
+
+09db  or ebx,ebx
+0bdb  or ebx,ebx
+
+09dc  or esp,ebx
+0be3  or esp,ebx
+
+09dd  or ebp,ebx
+0beb  or ebp,ebx
+
+09de  or esi,ebx
+0bf3  or esi,ebx
+
+09df  or edi,ebx
+0bfb  or edi,ebx
+
+09e0  or eax,esp
+0bc4  or eax,esp
+
+09e1  or ecx,esp
+0bcc  or ecx,esp
+
+09e2  or edx,esp
+0bd4  or edx,esp
+
+09e3  or ebx,esp
+0bdc  or ebx,esp
+
+09e4  or esp,esp
+0be4  or esp,esp
+
+09e5  or ebp,esp
+0bec  or ebp,esp
+
+09e6  or esi,esp
+0bf4  or esi,esp
+
+09e7  or edi,esp
+0bfc  or edi,esp
+
+09e8  or eax,ebp
+0bc5  or eax,ebp
+
+09e9  or ecx,ebp
+0bcd  or ecx,ebp
+
+09ea  or edx,ebp
+0bd5  or edx,ebp
+
+09eb  or ebx,ebp
+0bdd  or ebx,ebp
+
+09ec  or esp,ebp
+0be5  or esp,ebp
+
+09ed  or ebp,ebp
+0bed  or ebp,ebp
+
+09ee  or esi,ebp
+0bf5  or esi,ebp
+
+09ef  or edi,ebp
+0bfd  or edi,ebp
+
+09f0  or eax,esi
+0bc6  or eax,esi
+
+09f1  or ecx,esi
+0bce  or ecx,esi
+
+09f2  or edx,esi
+0bd6  or edx,esi
+
+09f3  or ebx,esi
+0bde  or ebx,esi
+
+09f4  or esp,esi
+0be6  or esp,esi
+
+09f5  or ebp,esi
+0bee  or ebp,esi
+
+09f6  or esi,esi
+0bf6  or esi,esi
+
+09f7  or edi,esi
+0bfe  or edi,esi
+
+09f8  or eax,edi
+0bc7  or eax,edi
+
+09f9  or ecx,edi
+0bcf  or ecx,edi
+
+09fa  or edx,edi
+0bd7  or edx,edi
+
+09fb  or ebx,edi
+0bdf  or ebx,edi
+
+09fc  or esp,edi
+0be7  or esp,edi
+
+09fd  or ebp,edi
+0bef  or ebp,edi
+
+09fe  or esi,edi
+0bf7  or esi,edi
+
+09ff  or edi,edi
+0bff  or edi,edi
+
+0cba  or al,0xba
+80c8  or al,0xba
+
+0cba  or al,0xba
+82c8  or al,0xba
+
+10c0  adc al,al
+12c0  adc al,al
+
+10c1  adc cl,al
+12c8  adc cl,al
+
+10c2  adc dl,al
+12d0  adc dl,al
+
+10c3  adc bl,al
+12d8  adc bl,al
+
+10c4  adc ah,al
+12e0  adc ah,al
+
+10c5  adc ch,al
+12e8  adc ch,al
+
+10c6  adc dh,al
+12f0  adc dh,al
+
+10c7  adc bh,al
+12f8  adc bh,al
+
+10c8  adc al,cl
+12c1  adc al,cl
+
+10c9  adc cl,cl
+12c9  adc cl,cl
+
+10ca  adc dl,cl
+12d1  adc dl,cl
+
+10cb  adc bl,cl
+12d9  adc bl,cl
+
+10cc  adc ah,cl
+12e1  adc ah,cl
+
+10cd  adc ch,cl
+12e9  adc ch,cl
+
+10ce  adc dh,cl
+12f1  adc dh,cl
+
+10cf  adc bh,cl
+12f9  adc bh,cl
+
+10d0  adc al,dl
+12c2  adc al,dl
+
+10d1  adc cl,dl
+12ca  adc cl,dl
+
+10d2  adc dl,dl
+12d2  adc dl,dl
+
+10d3  adc bl,dl
+12da  adc bl,dl
+
+10d4  adc ah,dl
+12e2  adc ah,dl
+
+10d5  adc ch,dl
+12ea  adc ch,dl
+
+10d6  adc dh,dl
+12f2  adc dh,dl
+
+10d7  adc bh,dl
+12fa  adc bh,dl
+
+10d8  adc al,bl
+12c3  adc al,bl
+
+10d9  adc cl,bl
+12cb  adc cl,bl
+
+10da  adc dl,bl
+12d3  adc dl,bl
+
+10db  adc bl,bl
+12db  adc bl,bl
+
+10dc  adc ah,bl
+12e3  adc ah,bl
+
+10dd  adc ch,bl
+12eb  adc ch,bl
+
+10de  adc dh,bl
+12f3  adc dh,bl
+
+10df  adc bh,bl
+12fb  adc bh,bl
+
+10e0  adc al,ah
+12c4  adc al,ah
+
+10e1  adc cl,ah
+12cc  adc cl,ah
+
+10e2  adc dl,ah
+12d4  adc dl,ah
+
+10e3  adc bl,ah
+12dc  adc bl,ah
+
+10e4  adc ah,ah
+12e4  adc ah,ah
+
+10e5  adc ch,ah
+12ec  adc ch,ah
+
+10e6  adc dh,ah
+12f4  adc dh,ah
+
+10e7  adc bh,ah
+12fc  adc bh,ah
+
+10e8  adc al,ch
+12c5  adc al,ch
+
+10e9  adc cl,ch
+12cd  adc cl,ch
+
+10ea  adc dl,ch
+12d5  adc dl,ch
+
+10eb  adc bl,ch
+12dd  adc bl,ch
+
+10ec  adc ah,ch
+12e5  adc ah,ch
+
+10ed  adc ch,ch
+12ed  adc ch,ch
+
+10ee  adc dh,ch
+12f5  adc dh,ch
+
+10ef  adc bh,ch
+12fd  adc bh,ch
+
+10f0  adc al,dh
+12c6  adc al,dh
+
+10f1  adc cl,dh
+12ce  adc cl,dh
+
+10f2  adc dl,dh
+12d6  adc dl,dh
+
+10f3  adc bl,dh
+12de  adc bl,dh
+
+10f4  adc ah,dh
+12e6  adc ah,dh
+
+10f5  adc ch,dh
+12ee  adc ch,dh
+
+10f6  adc dh,dh
+12f6  adc dh,dh
+
+10f7  adc bh,dh
+12fe  adc bh,dh
+
+10f8  adc al,bh
+12c7  adc al,bh
+
+10f9  adc cl,bh
+12cf  adc cl,bh
+
+10fa  adc dl,bh
+12d7  adc dl,bh
+
+10fb  adc bl,bh
+12df  adc bl,bh
+
+10fc  adc ah,bh
+12e7  adc ah,bh
+
+10fd  adc ch,bh
+12ef  adc ch,bh
+
+10fe  adc dh,bh
+12f7  adc dh,bh
+
+10ff  adc bh,bh
+12ff  adc bh,bh
+
+11c0  adc eax,eax
+13c0  adc eax,eax
+
+11c1  adc ecx,eax
+13c8  adc ecx,eax
+
+11c2  adc edx,eax
+13d0  adc edx,eax
+
+11c3  adc ebx,eax
+13d8  adc ebx,eax
+
+11c4  adc esp,eax
+13e0  adc esp,eax
+
+11c5  adc ebp,eax
+13e8  adc ebp,eax
+
+11c6  adc esi,eax
+13f0  adc esi,eax
+
+11c7  adc edi,eax
+13f8  adc edi,eax
+
+11c8  adc eax,ecx
+13c1  adc eax,ecx
+
+11c9  adc ecx,ecx
+13c9  adc ecx,ecx
+
+11ca  adc edx,ecx
+13d1  adc edx,ecx
+
+11cb  adc ebx,ecx
+13d9  adc ebx,ecx
+
+11cc  adc esp,ecx
+13e1  adc esp,ecx
+
+11cd  adc ebp,ecx
+13e9  adc ebp,ecx
+
+11ce  adc esi,ecx
+13f1  adc esi,ecx
+
+11cf  adc edi,ecx
+13f9  adc edi,ecx
+
+11d0  adc eax,edx
+13c2  adc eax,edx
+
+11d1  adc ecx,edx
+13ca  adc ecx,edx
+
+11d2  adc edx,edx
+13d2  adc edx,edx
+
+11d3  adc ebx,edx
+13da  adc ebx,edx
+
+11d4  adc esp,edx
+13e2  adc esp,edx
+
+11d5  adc ebp,edx
+13ea  adc ebp,edx
+
+11d6  adc esi,edx
+13f2  adc esi,edx
+
+11d7  adc edi,edx
+13fa  adc edi,edx
+
+11d8  adc eax,ebx
+13c3  adc eax,ebx
+
+11d9  adc ecx,ebx
+13cb  adc ecx,ebx
+
+11da  adc edx,ebx
+13d3  adc edx,ebx
+
+11db  adc ebx,ebx
+13db  adc ebx,ebx
+
+11dc  adc esp,ebx
+13e3  adc esp,ebx
+
+11dd  adc ebp,ebx
+13eb  adc ebp,ebx
+
+11de  adc esi,ebx
+13f3  adc esi,ebx
+
+11df  adc edi,ebx
+13fb  adc edi,ebx
+
+11e0  adc eax,esp
+13c4  adc eax,esp
+
+11e1  adc ecx,esp
+13cc  adc ecx,esp
+
+11e2  adc edx,esp
+13d4  adc edx,esp
+
+11e3  adc ebx,esp
+13dc  adc ebx,esp
+
+11e4  adc esp,esp
+13e4  adc esp,esp
+
+11e5  adc ebp,esp
+13ec  adc ebp,esp
+
+11e6  adc esi,esp
+13f4  adc esi,esp
+
+11e7  adc edi,esp
+13fc  adc edi,esp
+
+11e8  adc eax,ebp
+13c5  adc eax,ebp
+
+11e9  adc ecx,ebp
+13cd  adc ecx,ebp
+
+11ea  adc edx,ebp
+13d5  adc edx,ebp
+
+11eb  adc ebx,ebp
+13dd  adc ebx,ebp
+
+11ec  adc esp,ebp
+13e5  adc esp,ebp
+
+11ed  adc ebp,ebp
+13ed  adc ebp,ebp
+
+11ee  adc esi,ebp
+13f5  adc esi,ebp
+
+11ef  adc edi,ebp
+13fd  adc edi,ebp
+
+11f0  adc eax,esi
+13c6  adc eax,esi
+
+11f1  adc ecx,esi
+13ce  adc ecx,esi
+
+11f2  adc edx,esi
+13d6  adc edx,esi
+
+11f3  adc ebx,esi
+13de  adc ebx,esi
+
+11f4  adc esp,esi
+13e6  adc esp,esi
+
+11f5  adc ebp,esi
+13ee  adc ebp,esi
+
+11f6  adc esi,esi
+13f6  adc esi,esi
+
+11f7  adc edi,esi
+13fe  adc edi,esi
+
+11f8  adc eax,edi
+13c7  adc eax,edi
+
+11f9  adc ecx,edi
+13cf  adc ecx,edi
+
+11fa  adc edx,edi
+13d7  adc edx,edi
+
+11fb  adc ebx,edi
+13df  adc ebx,edi
+
+11fc  adc esp,edi
+13e7  adc esp,edi
+
+11fd  adc ebp,edi
+13ef  adc ebp,edi
+
+11fe  adc esi,edi
+13f7  adc esi,edi
+
+11ff  adc edi,edi
+13ff  adc edi,edi
+
+14ba  adc al,0xba
+80d0  adc al,0xba
+
+14ba  adc al,0xba
+82d0  adc al,0xba
+
+18c0  sbb al,al
+1ac0  sbb al,al
+
+18c1  sbb cl,al
+1ac8  sbb cl,al
+
+18c2  sbb dl,al
+1ad0  sbb dl,al
+
+18c3  sbb bl,al
+1ad8  sbb bl,al
+
+18c4  sbb ah,al
+1ae0  sbb ah,al
+
+18c5  sbb ch,al
+1ae8  sbb ch,al
+
+18c6  sbb dh,al
+1af0  sbb dh,al
+
+18c7  sbb bh,al
+1af8  sbb bh,al
+
+18c8  sbb al,cl
+1ac1  sbb al,cl
+
+18c9  sbb cl,cl
+1ac9  sbb cl,cl
+
+18ca  sbb dl,cl
+1ad1  sbb dl,cl
+
+18cb  sbb bl,cl
+1ad9  sbb bl,cl
+
+18cc  sbb ah,cl
+1ae1  sbb ah,cl
+
+18cd  sbb ch,cl
+1ae9  sbb ch,cl
+
+18ce  sbb dh,cl
+1af1  sbb dh,cl
+
+18cf  sbb bh,cl
+1af9  sbb bh,cl
+
+18d0  sbb al,dl
+1ac2  sbb al,dl
+
+18d1  sbb cl,dl
+1aca  sbb cl,dl
+
+18d2  sbb dl,dl
+1ad2  sbb dl,dl
+
+18d3  sbb bl,dl
+1ada  sbb bl,dl
+
+18d4  sbb ah,dl
+1ae2  sbb ah,dl
+
+18d5  sbb ch,dl
+1aea  sbb ch,dl
+
+18d6  sbb dh,dl
+1af2  sbb dh,dl
+
+18d7  sbb bh,dl
+1afa  sbb bh,dl
+
+18d8  sbb al,bl
+1ac3  sbb al,bl
+
+18d9  sbb cl,bl
+1acb  sbb cl,bl
+
+18da  sbb dl,bl
+1ad3  sbb dl,bl
+
+18db  sbb bl,bl
+1adb  sbb bl,bl
+
+18dc  sbb ah,bl
+1ae3  sbb ah,bl
+
+18dd  sbb ch,bl
+1aeb  sbb ch,bl
+
+18de  sbb dh,bl
+1af3  sbb dh,bl
+
+18df  sbb bh,bl
+1afb  sbb bh,bl
+
+18e0  sbb al,ah
+1ac4  sbb al,ah
+
+18e1  sbb cl,ah
+1acc  sbb cl,ah
+
+18e2  sbb dl,ah
+1ad4  sbb dl,ah
+
+18e3  sbb bl,ah
+1adc  sbb bl,ah
+
+18e4  sbb ah,ah
+1ae4  sbb ah,ah
+
+18e5  sbb ch,ah
+1aec  sbb ch,ah
+
+18e6  sbb dh,ah
+1af4  sbb dh,ah
+
+18e7  sbb bh,ah
+1afc  sbb bh,ah
+
+18e8  sbb al,ch
+1ac5  sbb al,ch
+
+18e9  sbb cl,ch
+1acd  sbb cl,ch
+
+18ea  sbb dl,ch
+1ad5  sbb dl,ch
+
+18eb  sbb bl,ch
+1add  sbb bl,ch
+
+18ec  sbb ah,ch
+1ae5  sbb ah,ch
+
+18ed  sbb ch,ch
+1aed  sbb ch,ch
+
+18ee  sbb dh,ch
+1af5  sbb dh,ch
+
+18ef  sbb bh,ch
+1afd  sbb bh,ch
+
+18f0  sbb al,dh
+1ac6  sbb al,dh
+
+18f1  sbb cl,dh
+1ace  sbb cl,dh
+
+18f2  sbb dl,dh
+1ad6  sbb dl,dh
+
+18f3  sbb bl,dh
+1ade  sbb bl,dh
+
+18f4  sbb ah,dh
+1ae6  sbb ah,dh
+
+18f5  sbb ch,dh
+1aee  sbb ch,dh
+
+18f6  sbb dh,dh
+1af6  sbb dh,dh
+
+18f7  sbb bh,dh
+1afe  sbb bh,dh
+
+18f8  sbb al,bh
+1ac7  sbb al,bh
+
+18f9  sbb cl,bh
+1acf  sbb cl,bh
+
+18fa  sbb dl,bh
+1ad7  sbb dl,bh
+
+18fb  sbb bl,bh
+1adf  sbb bl,bh
+
+18fc  sbb ah,bh
+1ae7  sbb ah,bh
+
+18fd  sbb ch,bh
+1aef  sbb ch,bh
+
+18fe  sbb dh,bh
+1af7  sbb dh,bh
+
+18ff  sbb bh,bh
+1aff  sbb bh,bh
+
+19c0  sbb eax,eax
+1bc0  sbb eax,eax
+
+19c1  sbb ecx,eax
+1bc8  sbb ecx,eax
+
+19c2  sbb edx,eax
+1bd0  sbb edx,eax
+
+19c3  sbb ebx,eax
+1bd8  sbb ebx,eax
+
+19c4  sbb esp,eax
+1be0  sbb esp,eax
+
+19c5  sbb ebp,eax
+1be8  sbb ebp,eax
+
+19c6  sbb esi,eax
+1bf0  sbb esi,eax
+
+19c7  sbb edi,eax
+1bf8  sbb edi,eax
+
+19c8  sbb eax,ecx
+1bc1  sbb eax,ecx
+
+19c9  sbb ecx,ecx
+1bc9  sbb ecx,ecx
+
+19ca  sbb edx,ecx
+1bd1  sbb edx,ecx
+
+19cb  sbb ebx,ecx
+1bd9  sbb ebx,ecx
+
+19cc  sbb esp,ecx
+1be1  sbb esp,ecx
+
+19cd  sbb ebp,ecx
+1be9  sbb ebp,ecx
+
+19ce  sbb esi,ecx
+1bf1  sbb esi,ecx
+
+19cf  sbb edi,ecx
+1bf9  sbb edi,ecx
+
+19d0  sbb eax,edx
+1bc2  sbb eax,edx
+
+19d1  sbb ecx,edx
+1bca  sbb ecx,edx
+
+19d2  sbb edx,edx
+1bd2  sbb edx,edx
+
+19d3  sbb ebx,edx
+1bda  sbb ebx,edx
+
+19d4  sbb esp,edx
+1be2  sbb esp,edx
+
+19d5  sbb ebp,edx
+1bea  sbb ebp,edx
+
+19d6  sbb esi,edx
+1bf2  sbb esi,edx
+
+19d7  sbb edi,edx
+1bfa  sbb edi,edx
+
+19d8  sbb eax,ebx
+1bc3  sbb eax,ebx
+
+19d9  sbb ecx,ebx
+1bcb  sbb ecx,ebx
+
+19da  sbb edx,ebx
+1bd3  sbb edx,ebx
+
+19db  sbb ebx,ebx
+1bdb  sbb ebx,ebx
+
+19dc  sbb esp,ebx
+1be3  sbb esp,ebx
+
+19dd  sbb ebp,ebx
+1beb  sbb ebp,ebx
+
+19de  sbb esi,ebx
+1bf3  sbb esi,ebx
+
+19df  sbb edi,ebx
+1bfb  sbb edi,ebx
+
+19e0  sbb eax,esp
+1bc4  sbb eax,esp
+
+19e1  sbb ecx,esp
+1bcc  sbb ecx,esp
+
+19e2  sbb edx,esp
+1bd4  sbb edx,esp
+
+19e3  sbb ebx,esp
+1bdc  sbb ebx,esp
+
+19e4  sbb esp,esp
+1be4  sbb esp,esp
+
+19e5  sbb ebp,esp
+1bec  sbb ebp,esp
+
+19e6  sbb esi,esp
+1bf4  sbb esi,esp
+
+19e7  sbb edi,esp
+1bfc  sbb edi,esp
+
+19e8  sbb eax,ebp
+1bc5  sbb eax,ebp
+
+19e9  sbb ecx,ebp
+1bcd  sbb ecx,ebp
+
+19ea  sbb edx,ebp
+1bd5  sbb edx,ebp
+
+19eb  sbb ebx,ebp
+1bdd  sbb ebx,ebp
+
+19ec  sbb esp,ebp
+1be5  sbb esp,ebp
+
+19ed  sbb ebp,ebp
+1bed  sbb ebp,ebp
+
+19ee  sbb esi,ebp
+1bf5  sbb esi,ebp
+
+19ef  sbb edi,ebp
+1bfd  sbb edi,ebp
+
+19f0  sbb eax,esi
+1bc6  sbb eax,esi
+
+19f1  sbb ecx,esi
+1bce  sbb ecx,esi
+
+19f2  sbb edx,esi
+1bd6  sbb edx,esi
+
+19f3  sbb ebx,esi
+1bde  sbb ebx,esi
+
+19f4  sbb esp,esi
+1be6  sbb esp,esi
+
+19f5  sbb ebp,esi
+1bee  sbb ebp,esi
+
+19f6  sbb esi,esi
+1bf6  sbb esi,esi
+
+19f7  sbb edi,esi
+1bfe  sbb edi,esi
+
+19f8  sbb eax,edi
+1bc7  sbb eax,edi
+
+19f9  sbb ecx,edi
+1bcf  sbb ecx,edi
+
+19fa  sbb edx,edi
+1bd7  sbb edx,edi
+
+19fb  sbb ebx,edi
+1bdf  sbb ebx,edi
+
+19fc  sbb esp,edi
+1be7  sbb esp,edi
+
+19fd  sbb ebp,edi
+1bef  sbb ebp,edi
+
+19fe  sbb esi,edi
+1bf7  sbb esi,edi
+
+19ff  sbb edi,edi
+1bff  sbb edi,edi
+
+1cba  sbb al,0xba
+80d8  sbb al,0xba
+
+1cba  sbb al,0xba
+82d8  sbb al,0xba
+
+20c0  and al,al
+22c0  and al,al
+
+20c1  and cl,al
+22c8  and cl,al
+
+20c2  and dl,al
+22d0  and dl,al
+
+20c3  and bl,al
+22d8  and bl,al
+
+20c4  and ah,al
+22e0  and ah,al
+
+20c5  and ch,al
+22e8  and ch,al
+
+20c6  and dh,al
+22f0  and dh,al
+
+20c7  and bh,al
+22f8  and bh,al
+
+20c8  and al,cl
+22c1  and al,cl
+
+20c9  and cl,cl
+22c9  and cl,cl
+
+20ca  and dl,cl
+22d1  and dl,cl
+
+20cb  and bl,cl
+22d9  and bl,cl
+
+20cc  and ah,cl
+22e1  and ah,cl
+
+20cd  and ch,cl
+22e9  and ch,cl
+
+20ce  and dh,cl
+22f1  and dh,cl
+
+20cf  and bh,cl
+22f9  and bh,cl
+
+20d0  and al,dl
+22c2  and al,dl
+
+20d1  and cl,dl
+22ca  and cl,dl
+
+20d2  and dl,dl
+22d2  and dl,dl
+
+20d3  and bl,dl
+22da  and bl,dl
+
+20d4  and ah,dl
+22e2  and ah,dl
+
+20d5  and ch,dl
+22ea  and ch,dl
+
+20d6  and dh,dl
+22f2  and dh,dl
+
+20d7  and bh,dl
+22fa  and bh,dl
+
+20d8  and al,bl
+22c3  and al,bl
+
+20d9  and cl,bl
+22cb  and cl,bl
+
+20da  and dl,bl
+22d3  and dl,bl
+
+20db  and bl,bl
+22db  and bl,bl
+
+20dc  and ah,bl
+22e3  and ah,bl
+
+20dd  and ch,bl
+22eb  and ch,bl
+
+20de  and dh,bl
+22f3  and dh,bl
+
+20df  and bh,bl
+22fb  and bh,bl
+
+20e0  and al,ah
+22c4  and al,ah
+
+20e1  and cl,ah
+22cc  and cl,ah
+
+20e2  and dl,ah
+22d4  and dl,ah
+
+20e3  and bl,ah
+22dc  and bl,ah
+
+20e4  and ah,ah
+22e4  and ah,ah
+
+20e5  and ch,ah
+22ec  and ch,ah
+
+20e6  and dh,ah
+22f4  and dh,ah
+
+20e7  and bh,ah
+22fc  and bh,ah
+
+20e8  and al,ch
+22c5  and al,ch
+
+20e9  and cl,ch
+22cd  and cl,ch
+
+20ea  and dl,ch
+22d5  and dl,ch
+
+20eb  and bl,ch
+22dd  and bl,ch
+
+20ec  and ah,ch
+22e5  and ah,ch
+
+20ed  and ch,ch
+22ed  and ch,ch
+
+20ee  and dh,ch
+22f5  and dh,ch
+
+20ef  and bh,ch
+22fd  and bh,ch
+
+20f0  and al,dh
+22c6  and al,dh
+
+20f1  and cl,dh
+22ce  and cl,dh
+
+20f2  and dl,dh
+22d6  and dl,dh
+
+20f3  and bl,dh
+22de  and bl,dh
+
+20f4  and ah,dh
+22e6  and ah,dh
+
+20f5  and ch,dh
+22ee  and ch,dh
+
+20f6  and dh,dh
+22f6  and dh,dh
+
+20f7  and bh,dh
+22fe  and bh,dh
+
+20f8  and al,bh
+22c7  and al,bh
+
+20f9  and cl,bh
+22cf  and cl,bh
+
+20fa  and dl,bh
+22d7  and dl,bh
+
+20fb  and bl,bh
+22df  and bl,bh
+
+20fc  and ah,bh
+22e7  and ah,bh
+
+20fd  and ch,bh
+22ef  and ch,bh
+
+20fe  and dh,bh
+22f7  and dh,bh
+
+20ff  and bh,bh
+22ff  and bh,bh
+
+21c0  and eax,eax
+23c0  and eax,eax
+
+21c1  and ecx,eax
+23c8  and ecx,eax
+
+21c2  and edx,eax
+23d0  and edx,eax
+
+21c3  and ebx,eax
+23d8  and ebx,eax
+
+21c4  and esp,eax
+23e0  and esp,eax
+
+21c5  and ebp,eax
+23e8  and ebp,eax
+
+21c6  and esi,eax
+23f0  and esi,eax
+
+21c7  and edi,eax
+23f8  and edi,eax
+
+21c8  and eax,ecx
+23c1  and eax,ecx
+
+21c9  and ecx,ecx
+23c9  and ecx,ecx
+
+21ca  and edx,ecx
+23d1  and edx,ecx
+
+21cb  and ebx,ecx
+23d9  and ebx,ecx
+
+21cc  and esp,ecx
+23e1  and esp,ecx
+
+21cd  and ebp,ecx
+23e9  and ebp,ecx
+
+21ce  and esi,ecx
+23f1  and esi,ecx
+
+21cf  and edi,ecx
+23f9  and edi,ecx
+
+21d0  and eax,edx
+23c2  and eax,edx
+
+21d1  and ecx,edx
+23ca  and ecx,edx
+
+21d2  and edx,edx
+23d2  and edx,edx
+
+21d3  and ebx,edx
+23da  and ebx,edx
+
+21d4  and esp,edx
+23e2  and esp,edx
+
+21d5  and ebp,edx
+23ea  and ebp,edx
+
+21d6  and esi,edx
+23f2  and esi,edx
+
+21d7  and edi,edx
+23fa  and edi,edx
+
+21d8  and eax,ebx
+23c3  and eax,ebx
+
+21d9  and ecx,ebx
+23cb  and ecx,ebx
+
+21da  and edx,ebx
+23d3  and edx,ebx
+
+21db  and ebx,ebx
+23db  and ebx,ebx
+
+21dc  and esp,ebx
+23e3  and esp,ebx
+
+21dd  and ebp,ebx
+23eb  and ebp,ebx
+
+21de  and esi,ebx
+23f3  and esi,ebx
+
+21df  and edi,ebx
+23fb  and edi,ebx
+
+21e0  and eax,esp
+23c4  and eax,esp
+
+21e1  and ecx,esp
+23cc  and ecx,esp
+
+21e2  and edx,esp
+23d4  and edx,esp
+
+21e3  and ebx,esp
+23dc  and ebx,esp
+
+21e4  and esp,esp
+23e4  and esp,esp
+
+21e5  and ebp,esp
+23ec  and ebp,esp
+
+21e6  and esi,esp
+23f4  and esi,esp
+
+21e7  and edi,esp
+23fc  and edi,esp
+
+21e8  and eax,ebp
+23c5  and eax,ebp
+
+21e9  and ecx,ebp
+23cd  and ecx,ebp
+
+21ea  and edx,ebp
+23d5  and edx,ebp
+
+21eb  and ebx,ebp
+23dd  and ebx,ebp
+
+21ec  and esp,ebp
+23e5  and esp,ebp
+
+21ed  and ebp,ebp
+23ed  and ebp,ebp
+
+21ee  and esi,ebp
+23f5  and esi,ebp
+
+21ef  and edi,ebp
+23fd  and edi,ebp
+
+21f0  and eax,esi
+23c6  and eax,esi
+
+21f1  and ecx,esi
+23ce  and ecx,esi
+
+21f2  and edx,esi
+23d6  and edx,esi
+
+21f3  and ebx,esi
+23de  and ebx,esi
+
+21f4  and esp,esi
+23e6  and esp,esi
+
+21f5  and ebp,esi
+23ee  and ebp,esi
+
+21f6  and esi,esi
+23f6  and esi,esi
+
+21f7  and edi,esi
+23fe  and edi,esi
+
+21f8  and eax,edi
+23c7  and eax,edi
+
+21f9  and ecx,edi
+23cf  and ecx,edi
+
+21fa  and edx,edi
+23d7  and edx,edi
+
+21fb  and ebx,edi
+23df  and ebx,edi
+
+21fc  and esp,edi
+23e7  and esp,edi
+
+21fd  and ebp,edi
+23ef  and ebp,edi
+
+21fe  and esi,edi
+23f7  and esi,edi
+
+21ff  and edi,edi
+23ff  and edi,edi
+
+24ba  and al,0xba
+80e0  and al,0xba
+
+24ba  and al,0xba
+82e0  and al,0xba
+
+2666  es: mov dx,0x114d
+6626  es: mov dx,0x114d
+
+2680  cmp byte[es:edx+0x7c86114d],0xff
+2682  cmp byte[es:edx+0x7c86114d],0xff
+
+28c0  sub al,al
+2ac0  sub al,al
+
+28c1  sub cl,al
+2ac8  sub cl,al
+
+28c2  sub dl,al
+2ad0  sub dl,al
+
+28c3  sub bl,al
+2ad8  sub bl,al
+
+28c4  sub ah,al
+2ae0  sub ah,al
+
+28c5  sub ch,al
+2ae8  sub ch,al
+
+28c6  sub dh,al
+2af0  sub dh,al
+
+28c7  sub bh,al
+2af8  sub bh,al
+
+28c8  sub al,cl
+2ac1  sub al,cl
+
+28c9  sub cl,cl
+2ac9  sub cl,cl
+
+28ca  sub dl,cl
+2ad1  sub dl,cl
+
+28cb  sub bl,cl
+2ad9  sub bl,cl
+
+28cc  sub ah,cl
+2ae1  sub ah,cl
+
+28cd  sub ch,cl
+2ae9  sub ch,cl
+
+28ce  sub dh,cl
+2af1  sub dh,cl
+
+28cf  sub bh,cl
+2af9  sub bh,cl
+
+28d0  sub al,dl
+2ac2  sub al,dl
+
+28d1  sub cl,dl
+2aca  sub cl,dl
+
+28d2  sub dl,dl
+2ad2  sub dl,dl
+
+28d3  sub bl,dl
+2ada  sub bl,dl
+
+28d4  sub ah,dl
+2ae2  sub ah,dl
+
+28d5  sub ch,dl
+2aea  sub ch,dl
+
+28d6  sub dh,dl
+2af2  sub dh,dl
+
+28d7  sub bh,dl
+2afa  sub bh,dl
+
+28d8  sub al,bl
+2ac3  sub al,bl
+
+28d9  sub cl,bl
+2acb  sub cl,bl
+
+28da  sub dl,bl
+2ad3  sub dl,bl
+
+28db  sub bl,bl
+2adb  sub bl,bl
+
+28dc  sub ah,bl
+2ae3  sub ah,bl
+
+28dd  sub ch,bl
+2aeb  sub ch,bl
+
+28de  sub dh,bl
+2af3  sub dh,bl
+
+28df  sub bh,bl
+2afb  sub bh,bl
+
+28e0  sub al,ah
+2ac4  sub al,ah
+
+28e1  sub cl,ah
+2acc  sub cl,ah
+
+28e2  sub dl,ah
+2ad4  sub dl,ah
+
+28e3  sub bl,ah
+2adc  sub bl,ah
+
+28e4  sub ah,ah
+2ae4  sub ah,ah
+
+28e5  sub ch,ah
+2aec  sub ch,ah
+
+28e6  sub dh,ah
+2af4  sub dh,ah
+
+28e7  sub bh,ah
+2afc  sub bh,ah
+
+28e8  sub al,ch
+2ac5  sub al,ch
+
+28e9  sub cl,ch
+2acd  sub cl,ch
+
+28ea  sub dl,ch
+2ad5  sub dl,ch
+
+28eb  sub bl,ch
+2add  sub bl,ch
+
+28ec  sub ah,ch
+2ae5  sub ah,ch
+
+28ed  sub ch,ch
+2aed  sub ch,ch
+
+28ee  sub dh,ch
+2af5  sub dh,ch
+
+28ef  sub bh,ch
+2afd  sub bh,ch
+
+28f0  sub al,dh
+2ac6  sub al,dh
+
+28f1  sub cl,dh
+2ace  sub cl,dh
+
+28f2  sub dl,dh
+2ad6  sub dl,dh
+
+28f3  sub bl,dh
+2ade  sub bl,dh
+
+28f4  sub ah,dh
+2ae6  sub ah,dh
+
+28f5  sub ch,dh
+2aee  sub ch,dh
+
+28f6  sub dh,dh
+2af6  sub dh,dh
+
+28f7  sub bh,dh
+2afe  sub bh,dh
+
+28f8  sub al,bh
+2ac7  sub al,bh
+
+28f9  sub cl,bh
+2acf  sub cl,bh
+
+28fa  sub dl,bh
+2ad7  sub dl,bh
+
+28fb  sub bl,bh
+2adf  sub bl,bh
+
+28fc  sub ah,bh
+2ae7  sub ah,bh
+
+28fd  sub ch,bh
+2aef  sub ch,bh
+
+28fe  sub dh,bh
+2af7  sub dh,bh
+
+28ff  sub bh,bh
+2aff  sub bh,bh
+
+29c0  sub eax,eax
+2bc0  sub eax,eax
+
+29c1  sub ecx,eax
+2bc8  sub ecx,eax
+
+29c2  sub edx,eax
+2bd0  sub edx,eax
+
+29c3  sub ebx,eax
+2bd8  sub ebx,eax
+
+29c4  sub esp,eax
+2be0  sub esp,eax
+
+29c5  sub ebp,eax
+2be8  sub ebp,eax
+
+29c6  sub esi,eax
+2bf0  sub esi,eax
+
+29c7  sub edi,eax
+2bf8  sub edi,eax
+
+29c8  sub eax,ecx
+2bc1  sub eax,ecx
+
+29c9  sub ecx,ecx
+2bc9  sub ecx,ecx
+
+29ca  sub edx,ecx
+2bd1  sub edx,ecx
+
+29cb  sub ebx,ecx
+2bd9  sub ebx,ecx
+
+29cc  sub esp,ecx
+2be1  sub esp,ecx
+
+29cd  sub ebp,ecx
+2be9  sub ebp,ecx
+
+29ce  sub esi,ecx
+2bf1  sub esi,ecx
+
+29cf  sub edi,ecx
+2bf9  sub edi,ecx
+
+29d0  sub eax,edx
+2bc2  sub eax,edx
+
+29d1  sub ecx,edx
+2bca  sub ecx,edx
+
+29d2  sub edx,edx
+2bd2  sub edx,edx
+
+29d3  sub ebx,edx
+2bda  sub ebx,edx
+
+29d4  sub esp,edx
+2be2  sub esp,edx
+
+29d5  sub ebp,edx
+2bea  sub ebp,edx
+
+29d6  sub esi,edx
+2bf2  sub esi,edx
+
+29d7  sub edi,edx
+2bfa  sub edi,edx
+
+29d8  sub eax,ebx
+2bc3  sub eax,ebx
+
+29d9  sub ecx,ebx
+2bcb  sub ecx,ebx
+
+29da  sub edx,ebx
+2bd3  sub edx,ebx
+
+29db  sub ebx,ebx
+2bdb  sub ebx,ebx
+
+29dc  sub esp,ebx
+2be3  sub esp,ebx
+
+29dd  sub ebp,ebx
+2beb  sub ebp,ebx
+
+29de  sub esi,ebx
+2bf3  sub esi,ebx
+
+29df  sub edi,ebx
+2bfb  sub edi,ebx
+
+29e0  sub eax,esp
+2bc4  sub eax,esp
+
+29e1  sub ecx,esp
+2bcc  sub ecx,esp
+
+29e2  sub edx,esp
+2bd4  sub edx,esp
+
+29e3  sub ebx,esp
+2bdc  sub ebx,esp
+
+29e4  sub esp,esp
+2be4  sub esp,esp
+
+29e5  sub ebp,esp
+2bec  sub ebp,esp
+
+29e6  sub esi,esp
+2bf4  sub esi,esp
+
+29e7  sub edi,esp
+2bfc  sub edi,esp
+
+29e8  sub eax,ebp
+2bc5  sub eax,ebp
+
+29e9  sub ecx,ebp
+2bcd  sub ecx,ebp
+
+29ea  sub edx,ebp
+2bd5  sub edx,ebp
+
+29eb  sub ebx,ebp
+2bdd  sub ebx,ebp
+
+29ec  sub esp,ebp
+2be5  sub esp,ebp
+
+29ed  sub ebp,ebp
+2bed  sub ebp,ebp
+
+29ee  sub esi,ebp
+2bf5  sub esi,ebp
+
+29ef  sub edi,ebp
+2bfd  sub edi,ebp
+
+29f0  sub eax,esi
+2bc6  sub eax,esi
+
+29f1  sub ecx,esi
+2bce  sub ecx,esi
+
+29f2  sub edx,esi
+2bd6  sub edx,esi
+
+29f3  sub ebx,esi
+2bde  sub ebx,esi
+
+29f4  sub esp,esi
+2be6  sub esp,esi
+
+29f5  sub ebp,esi
+2bee  sub ebp,esi
+
+29f6  sub esi,esi
+2bf6  sub esi,esi
+
+29f7  sub edi,esi
+2bfe  sub edi,esi
+
+29f8  sub eax,edi
+2bc7  sub eax,edi
+
+29f9  sub ecx,edi
+2bcf  sub ecx,edi
+
+29fa  sub edx,edi
+2bd7  sub edx,edi
+
+29fb  sub ebx,edi
+2bdf  sub ebx,edi
+
+29fc  sub esp,edi
+2be7  sub esp,edi
+
+29fd  sub ebp,edi
+2bef  sub ebp,edi
+
+29fe  sub esi,edi
+2bf7  sub esi,edi
+
+29ff  sub edi,edi
+2bff  sub edi,edi
+
+2cba  sub al,0xba
+80e8  sub al,0xba
+
+2cba  sub al,0xba
+82e8  sub al,0xba
+
+2e66  cs: mov dx,0x114d
+662e  cs: mov dx,0x114d
+
+2e80  cmp byte[cs:edx+0x7c86114d],0xff
+2e82  cmp byte[cs:edx+0x7c86114d],0xff
+
+30c0  xor al,al
+32c0  xor al,al
+
+30c1  xor cl,al
+32c8  xor cl,al
+
+30c2  xor dl,al
+32d0  xor dl,al
+
+30c3  xor bl,al
+32d8  xor bl,al
+
+30c4  xor ah,al
+32e0  xor ah,al
+
+30c5  xor ch,al
+32e8  xor ch,al
+
+30c6  xor dh,al
+32f0  xor dh,al
+
+30c7  xor bh,al
+32f8  xor bh,al
+
+30c8  xor al,cl
+32c1  xor al,cl
+
+30c9  xor cl,cl
+32c9  xor cl,cl
+
+30ca  xor dl,cl
+32d1  xor dl,cl
+
+30cb  xor bl,cl
+32d9  xor bl,cl
+
+30cc  xor ah,cl
+32e1  xor ah,cl
+
+30cd  xor ch,cl
+32e9  xor ch,cl
+
+30ce  xor dh,cl
+32f1  xor dh,cl
+
+30cf  xor bh,cl
+32f9  xor bh,cl
+
+30d0  xor al,dl
+32c2  xor al,dl
+
+30d1  xor cl,dl
+32ca  xor cl,dl
+
+30d2  xor dl,dl
+32d2  xor dl,dl
+
+30d3  xor bl,dl
+32da  xor bl,dl
+
+30d4  xor ah,dl
+32e2  xor ah,dl
+
+30d5  xor ch,dl
+32ea  xor ch,dl
+
+30d6  xor dh,dl
+32f2  xor dh,dl
+
+30d7  xor bh,dl
+32fa  xor bh,dl
+
+30d8  xor al,bl
+32c3  xor al,bl
+
+30d9  xor cl,bl
+32cb  xor cl,bl
+
+30da  xor dl,bl
+32d3  xor dl,bl
+
+30db  xor bl,bl
+32db  xor bl,bl
+
+30dc  xor ah,bl
+32e3  xor ah,bl
+
+30dd  xor ch,bl
+32eb  xor ch,bl
+
+30de  xor dh,bl
+32f3  xor dh,bl
+
+30df  xor bh,bl
+32fb  xor bh,bl
+
+30e0  xor al,ah
+32c4  xor al,ah
+
+30e1  xor cl,ah
+32cc  xor cl,ah
+
+30e2  xor dl,ah
+32d4  xor dl,ah
+
+30e3  xor bl,ah
+32dc  xor bl,ah
+
+30e4  xor ah,ah
+32e4  xor ah,ah
+
+30e5  xor ch,ah
+32ec  xor ch,ah
+
+30e6  xor dh,ah
+32f4  xor dh,ah
+
+30e7  xor bh,ah
+32fc  xor bh,ah
+
+30e8  xor al,ch
+32c5  xor al,ch
+
+30e9  xor cl,ch
+32cd  xor cl,ch
+
+30ea  xor dl,ch
+32d5  xor dl,ch
+
+30eb  xor bl,ch
+32dd  xor bl,ch
+
+30ec  xor ah,ch
+32e5  xor ah,ch
+
+30ed  xor ch,ch
+32ed  xor ch,ch
+
+30ee  xor dh,ch
+32f5  xor dh,ch
+
+30ef  xor bh,ch
+32fd  xor bh,ch
+
+30f0  xor al,dh
+32c6  xor al,dh
+
+30f1  xor cl,dh
+32ce  xor cl,dh
+
+30f2  xor dl,dh
+32d6  xor dl,dh
+
+30f3  xor bl,dh
+32de  xor bl,dh
+
+30f4  xor ah,dh
+32e6  xor ah,dh
+
+30f5  xor ch,dh
+32ee  xor ch,dh
+
+30f6  xor dh,dh
+32f6  xor dh,dh
+
+30f7  xor bh,dh
+32fe  xor bh,dh
+
+30f8  xor al,bh
+32c7  xor al,bh
+
+30f9  xor cl,bh
+32cf  xor cl,bh
+
+30fa  xor dl,bh
+32d7  xor dl,bh
+
+30fb  xor bl,bh
+32df  xor bl,bh
+
+30fc  xor ah,bh
+32e7  xor ah,bh
+
+30fd  xor ch,bh
+32ef  xor ch,bh
+
+30fe  xor dh,bh
+32f7  xor dh,bh
+
+30ff  xor bh,bh
+32ff  xor bh,bh
+
+31c0  xor eax,eax
+33c0  xor eax,eax
+
+31c1  xor ecx,eax
+33c8  xor ecx,eax
+
+31c2  xor edx,eax
+33d0  xor edx,eax
+
+31c3  xor ebx,eax
+33d8  xor ebx,eax
+
+31c4  xor esp,eax
+33e0  xor esp,eax
+
+31c5  xor ebp,eax
+33e8  xor ebp,eax
+
+31c6  xor esi,eax
+33f0  xor esi,eax
+
+31c7  xor edi,eax
+33f8  xor edi,eax
+
+31c8  xor eax,ecx
+33c1  xor eax,ecx
+
+31c9  xor ecx,ecx
+33c9  xor ecx,ecx
+
+31ca  xor edx,ecx
+33d1  xor edx,ecx
+
+31cb  xor ebx,ecx
+33d9  xor ebx,ecx
+
+31cc  xor esp,ecx
+33e1  xor esp,ecx
+
+31cd  xor ebp,ecx
+33e9  xor ebp,ecx
+
+31ce  xor esi,ecx
+33f1  xor esi,ecx
+
+31cf  xor edi,ecx
+33f9  xor edi,ecx
+
+31d0  xor eax,edx
+33c2  xor eax,edx
+
+31d1  xor ecx,edx
+33ca  xor ecx,edx
+
+31d2  xor edx,edx
+33d2  xor edx,edx
+
+31d3  xor ebx,edx
+33da  xor ebx,edx
+
+31d4  xor esp,edx
+33e2  xor esp,edx
+
+31d5  xor ebp,edx
+33ea  xor ebp,edx
+
+31d6  xor esi,edx
+33f2  xor esi,edx
+
+31d7  xor edi,edx
+33fa  xor edi,edx
+
+31d8  xor eax,ebx
+33c3  xor eax,ebx
+
+31d9  xor ecx,ebx
+33cb  xor ecx,ebx
+
+31da  xor edx,ebx
+33d3  xor edx,ebx
+
+31db  xor ebx,ebx
+33db  xor ebx,ebx
+
+31dc  xor esp,ebx
+33e3  xor esp,ebx
+
+31dd  xor ebp,ebx
+33eb  xor ebp,ebx
+
+31de  xor esi,ebx
+33f3  xor esi,ebx
+
+31df  xor edi,ebx
+33fb  xor edi,ebx
+
+31e0  xor eax,esp
+33c4  xor eax,esp
+
+31e1  xor ecx,esp
+33cc  xor ecx,esp
+
+31e2  xor edx,esp
+33d4  xor edx,esp
+
+31e3  xor ebx,esp
+33dc  xor ebx,esp
+
+31e4  xor esp,esp
+33e4  xor esp,esp
+
+31e5  xor ebp,esp
+33ec  xor ebp,esp
+
+31e6  xor esi,esp
+33f4  xor esi,esp
+
+31e7  xor edi,esp
+33fc  xor edi,esp
+
+31e8  xor eax,ebp
+33c5  xor eax,ebp
+
+31e9  xor ecx,ebp
+33cd  xor ecx,ebp
+
+31ea  xor edx,ebp
+33d5  xor edx,ebp
+
+31eb  xor ebx,ebp
+33dd  xor ebx,ebp
+
+31ec  xor esp,ebp
+33e5  xor esp,ebp
+
+31ed  xor ebp,ebp
+33ed  xor ebp,ebp
+
+31ee  xor esi,ebp
+33f5  xor esi,ebp
+
+31ef  xor edi,ebp
+33fd  xor edi,ebp
+
+31f0  xor eax,esi
+33c6  xor eax,esi
+
+31f1  xor ecx,esi
+33ce  xor ecx,esi
+
+31f2  xor edx,esi
+33d6  xor edx,esi
+
+31f3  xor ebx,esi
+33de  xor ebx,esi
+
+31f4  xor esp,esi
+33e6  xor esp,esi
+
+31f5  xor ebp,esi
+33ee  xor ebp,esi
+
+31f6  xor esi,esi
+33f6  xor esi,esi
+
+31f7  xor edi,esi
+33fe  xor edi,esi
+
+31f8  xor eax,edi
+33c7  xor eax,edi
+
+31f9  xor ecx,edi
+33cf  xor ecx,edi
+
+31fa  xor edx,edi
+33d7  xor edx,edi
+
+31fb  xor ebx,edi
+33df  xor ebx,edi
+
+31fc  xor esp,edi
+33e7  xor esp,edi
+
+31fd  xor ebp,edi
+33ef  xor ebp,edi
+
+31fe  xor esi,edi
+33f7  xor esi,edi
+
+31ff  xor edi,edi
+33ff  xor edi,edi
+
+34ba  xor al,0xba
+80f0  xor al,0xba
+
+34ba  xor al,0xba
+82f0  xor al,0xba
+
+3666  ss: mov dx,0x114d
+6636  ss: mov dx,0x114d
+
+3680  cmp byte[ss:edx+0x7c86114d],0xff
+3682  cmp byte[ss:edx+0x7c86114d],0xff
+
+38c0  cmp al,al
+3ac0  cmp al,al
+
+38c1  cmp cl,al
+3ac8  cmp cl,al
+
+38c2  cmp dl,al
+3ad0  cmp dl,al
+
+38c3  cmp bl,al
+3ad8  cmp bl,al
+
+38c4  cmp ah,al
+3ae0  cmp ah,al
+
+38c5  cmp ch,al
+3ae8  cmp ch,al
+
+38c6  cmp dh,al
+3af0  cmp dh,al
+
+38c7  cmp bh,al
+3af8  cmp bh,al
+
+38c8  cmp al,cl
+3ac1  cmp al,cl
+
+38c9  cmp cl,cl
+3ac9  cmp cl,cl
+
+38ca  cmp dl,cl
+3ad1  cmp dl,cl
+
+38cb  cmp bl,cl
+3ad9  cmp bl,cl
+
+38cc  cmp ah,cl
+3ae1  cmp ah,cl
+
+38cd  cmp ch,cl
+3ae9  cmp ch,cl
+
+38ce  cmp dh,cl
+3af1  cmp dh,cl
+
+38cf  cmp bh,cl
+3af9  cmp bh,cl
+
+38d0  cmp al,dl
+3ac2  cmp al,dl
+
+38d1  cmp cl,dl
+3aca  cmp cl,dl
+
+38d2  cmp dl,dl
+3ad2  cmp dl,dl
+
+38d3  cmp bl,dl
+3ada  cmp bl,dl
+
+38d4  cmp ah,dl
+3ae2  cmp ah,dl
+
+38d5  cmp ch,dl
+3aea  cmp ch,dl
+
+38d6  cmp dh,dl
+3af2  cmp dh,dl
+
+38d7  cmp bh,dl
+3afa  cmp bh,dl
+
+38d8  cmp al,bl
+3ac3  cmp al,bl
+
+38d9  cmp cl,bl
+3acb  cmp cl,bl
+
+38da  cmp dl,bl
+3ad3  cmp dl,bl
+
+38db  cmp bl,bl
+3adb  cmp bl,bl
+
+38dc  cmp ah,bl
+3ae3  cmp ah,bl
+
+38dd  cmp ch,bl
+3aeb  cmp ch,bl
+
+38de  cmp dh,bl
+3af3  cmp dh,bl
+
+38df  cmp bh,bl
+3afb  cmp bh,bl
+
+38e0  cmp al,ah
+3ac4  cmp al,ah
+
+38e1  cmp cl,ah
+3acc  cmp cl,ah
+
+38e2  cmp dl,ah
+3ad4  cmp dl,ah
+
+38e3  cmp bl,ah
+3adc  cmp bl,ah
+
+38e4  cmp ah,ah
+3ae4  cmp ah,ah
+
+38e5  cmp ch,ah
+3aec  cmp ch,ah
+
+38e6  cmp dh,ah
+3af4  cmp dh,ah
+
+38e7  cmp bh,ah
+3afc  cmp bh,ah
+
+38e8  cmp al,ch
+3ac5  cmp al,ch
+
+38e9  cmp cl,ch
+3acd  cmp cl,ch
+
+38ea  cmp dl,ch
+3ad5  cmp dl,ch
+
+38eb  cmp bl,ch
+3add  cmp bl,ch
+
+38ec  cmp ah,ch
+3ae5  cmp ah,ch
+
+38ed  cmp ch,ch
+3aed  cmp ch,ch
+
+38ee  cmp dh,ch
+3af5  cmp dh,ch
+
+38ef  cmp bh,ch
+3afd  cmp bh,ch
+
+38f0  cmp al,dh
+3ac6  cmp al,dh
+
+38f1  cmp cl,dh
+3ace  cmp cl,dh
+
+38f2  cmp dl,dh
+3ad6  cmp dl,dh
+
+38f3  cmp bl,dh
+3ade  cmp bl,dh
+
+38f4  cmp ah,dh
+3ae6  cmp ah,dh
+
+38f5  cmp ch,dh
+3aee  cmp ch,dh
+
+38f6  cmp dh,dh
+3af6  cmp dh,dh
+
+38f7  cmp bh,dh
+3afe  cmp bh,dh
+
+38f8  cmp al,bh
+3ac7  cmp al,bh
+
+38f9  cmp cl,bh
+3acf  cmp cl,bh
+
+38fa  cmp dl,bh
+3ad7  cmp dl,bh
+
+38fb  cmp bl,bh
+3adf  cmp bl,bh
+
+38fc  cmp ah,bh
+3ae7  cmp ah,bh
+
+38fd  cmp ch,bh
+3aef  cmp ch,bh
+
+38fe  cmp dh,bh
+3af7  cmp dh,bh
+
+38ff  cmp bh,bh
+3aff  cmp bh,bh
+
+39c0  cmp eax,eax
+3bc0  cmp eax,eax
+
+39c1  cmp ecx,eax
+3bc8  cmp ecx,eax
+
+39c2  cmp edx,eax
+3bd0  cmp edx,eax
+
+39c3  cmp ebx,eax
+3bd8  cmp ebx,eax
+
+39c4  cmp esp,eax
+3be0  cmp esp,eax
+
+39c5  cmp ebp,eax
+3be8  cmp ebp,eax
+
+39c6  cmp esi,eax
+3bf0  cmp esi,eax
+
+39c7  cmp edi,eax
+3bf8  cmp edi,eax
+
+39c8  cmp eax,ecx
+3bc1  cmp eax,ecx
+
+39c9  cmp ecx,ecx
+3bc9  cmp ecx,ecx
+
+39ca  cmp edx,ecx
+3bd1  cmp edx,ecx
+
+39cb  cmp ebx,ecx
+3bd9  cmp ebx,ecx
+
+39cc  cmp esp,ecx
+3be1  cmp esp,ecx
+
+39cd  cmp ebp,ecx
+3be9  cmp ebp,ecx
+
+39ce  cmp esi,ecx
+3bf1  cmp esi,ecx
+
+39cf  cmp edi,ecx
+3bf9  cmp edi,ecx
+
+39d0  cmp eax,edx
+3bc2  cmp eax,edx
+
+39d1  cmp ecx,edx
+3bca  cmp ecx,edx
+
+39d2  cmp edx,edx
+3bd2  cmp edx,edx
+
+39d3  cmp ebx,edx
+3bda  cmp ebx,edx
+
+39d4  cmp esp,edx
+3be2  cmp esp,edx
+
+39d5  cmp ebp,edx
+3bea  cmp ebp,edx
+
+39d6  cmp esi,edx
+3bf2  cmp esi,edx
+
+39d7  cmp edi,edx
+3bfa  cmp edi,edx
+
+39d8  cmp eax,ebx
+3bc3  cmp eax,ebx
+
+39d9  cmp ecx,ebx
+3bcb  cmp ecx,ebx
+
+39da  cmp edx,ebx
+3bd3  cmp edx,ebx
+
+39db  cmp ebx,ebx
+3bdb  cmp ebx,ebx
+
+39dc  cmp esp,ebx
+3be3  cmp esp,ebx
+
+39dd  cmp ebp,ebx
+3beb  cmp ebp,ebx
+
+39de  cmp esi,ebx
+3bf3  cmp esi,ebx
+
+39df  cmp edi,ebx
+3bfb  cmp edi,ebx
+
+39e0  cmp eax,esp
+3bc4  cmp eax,esp
+
+39e1  cmp ecx,esp
+3bcc  cmp ecx,esp
+
+39e2  cmp edx,esp
+3bd4  cmp edx,esp
+
+39e3  cmp ebx,esp
+3bdc  cmp ebx,esp
+
+39e4  cmp esp,esp
+3be4  cmp esp,esp
+
+39e5  cmp ebp,esp
+3bec  cmp ebp,esp
+
+39e6  cmp esi,esp
+3bf4  cmp esi,esp
+
+39e7  cmp edi,esp
+3bfc  cmp edi,esp
+
+39e8  cmp eax,ebp
+3bc5  cmp eax,ebp
+
+39e9  cmp ecx,ebp
+3bcd  cmp ecx,ebp
+
+39ea  cmp edx,ebp
+3bd5  cmp edx,ebp
+
+39eb  cmp ebx,ebp
+3bdd  cmp ebx,ebp
+
+39ec  cmp esp,ebp
+3be5  cmp esp,ebp
+
+39ed  cmp ebp,ebp
+3bed  cmp ebp,ebp
+
+39ee  cmp esi,ebp
+3bf5  cmp esi,ebp
+
+39ef  cmp edi,ebp
+3bfd  cmp edi,ebp
+
+39f0  cmp eax,esi
+3bc6  cmp eax,esi
+
+39f1  cmp ecx,esi
+3bce  cmp ecx,esi
+
+39f2  cmp edx,esi
+3bd6  cmp edx,esi
+
+39f3  cmp ebx,esi
+3bde  cmp ebx,esi
+
+39f4  cmp esp,esi
+3be6  cmp esp,esi
+
+39f5  cmp ebp,esi
+3bee  cmp ebp,esi
+
+39f6  cmp esi,esi
+3bf6  cmp esi,esi
+
+39f7  cmp edi,esi
+3bfe  cmp edi,esi
+
+39f8  cmp eax,edi
+3bc7  cmp eax,edi
+
+39f9  cmp ecx,edi
+3bcf  cmp ecx,edi
+
+39fa  cmp edx,edi
+3bd7  cmp edx,edi
+
+39fb  cmp ebx,edi
+3bdf  cmp ebx,edi
+
+39fc  cmp esp,edi
+3be7  cmp esp,edi
+
+39fd  cmp ebp,edi
+3bef  cmp ebp,edi
+
+39fe  cmp esi,edi
+3bf7  cmp esi,edi
+
+39ff  cmp edi,edi
+3bff  cmp edi,edi
+
+3cba  cmp al,0xba
+80f8  cmp al,0xba
+
+3cba  cmp al,0xba
+82f8  cmp al,0xba
+
+3e66  ds: mov dx,0x114d
+663e  ds: mov dx,0x114d
+
+3e80  cmp byte[ds:edx+0x7c86114d],0xff
+3e82  cmp byte[ds:edx+0x7c86114d],0xff
+
